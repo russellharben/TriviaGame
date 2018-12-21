@@ -1,0 +1,17 @@
+body {
+    margin:0px;
+    padding:0px;
+    background-color:#660000;
+    background-image:url("/assets/images/nightSky.jpeg");
+}
+
+
+.whiteBackground {
+    background-color:white !important;
+}
+
+form {
+    margin-top:30% !important;
+    background-color:#fff;
+    padding:40px;
+}
